@@ -2,7 +2,7 @@
 Neural network snake game player with genetic algorithm.
 
 ## What does it do?
-It trains the neural network to play snake game.  
+It trains the neural network to play snake game which runs in the terminal.  
 This is a neural network training fun stuff with genetic algorithm, my snake game and my neural network library.  
 https://github.com/inu1997/csnake.git  
 https://github.com/inu1997/c_neural_network.git
