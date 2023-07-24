@@ -1,6 +1,6 @@
 # neural_network_snake
 Neural network snake game player with genetic algorithm.  
-..And I think it's quite fun and meaningful to preserve it on github.
+...And I think it's quite fun and meaningful to preserve it on github.
 
 ## What does it do?
 It trains the neural network to play snake game which runs in the terminal.  
@@ -25,7 +25,7 @@ or read help manual with
 ```
 ./n_snake -h
 ```
-2.5 Stop it with Ctrl+C when you want to stop.  
-..And it should generate a save file according to your argument.
-
 3. Have fun watch your snake move.
+
+4. Stop it with Ctrl+C when you want to stop.  
+...And it should generate a save file according to your argument.
