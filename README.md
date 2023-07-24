@@ -1,5 +1,6 @@
 # neural_network_snake
 Neural network snake game player with genetic algorithm.
+..And I think it's quite fun and meaningful to preserve it on github.
 
 ## What does it do?
 It trains the neural network to play snake game which runs in the terminal.  
